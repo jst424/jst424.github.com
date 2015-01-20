@@ -1,9 +1,9 @@
 ---
-title: Markdown Resume
+title: Markdown Resume - edit
 layout: post
 ---
 
-Markdown Resume
+Markdown Resume - edit
 ===============
 
 [Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
