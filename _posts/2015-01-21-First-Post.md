@@ -1,3 +1,8 @@
+---
+title: Markdown Resume
+layout: post
+---
+
 Markdown Resume
 ===============
 
